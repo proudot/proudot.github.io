@@ -16,7 +16,6 @@
     method, we revealed and quantified previously unobservable
     interactions such as chromosome capture and 3D adhesion mechanisms.*
 
-  - 2019  
     A. F. David, P. Roudot, W. R. Legant, E. Betzig, G. Danuser, and D.
     W. Gerlich. **Augmin-Mediated Amplification of Long-Lived Spindle
     Microtubules Directs plus-Ends towards Kinetochores.** *Under review
@@ -77,19 +76,16 @@
     Framework to Quantify, Observe and Contextualize Intracellular
     Dynamics in Three Dimensions.** *In Preparation*.
 
-  - 2019  
     A. Mihai, J. Noh, M. J. Sandi, P. Roudot, R. Rottapel, G. Danuser,
     and K. M. Hahn. **Novel Biosensor Design Reveals the Role and
     Regulation of GEF-H1 in Cell Migration.** *Submitted in Journal of
     Cell Biology*.
 
-  - 2019  
     A. F. David, P. Roudot, W. R. Legant, E. Betzig, G. Danuser, and D.
     W. Gerlich. **Augmin-Mediated Amplification of Long-Lived Spindle
     Microtubules Directs plus-Ends towards Kinetochores.** *Under review
     in Journal of Cell Biology*.
 
-  - 2019  
     B. Chang, M. Kittisopikul, K. M. Dean, P. Roudot, E. S. Welf, and R.
     P. Fiolka. **Universal Light-Sheet Generation with Field
     Synthesis.** In press in Nature Methods.
@@ -100,14 +96,12 @@
     Feedback Loop That Regulates B1 Integrin Recycling and Migration**.
     BioArxiv. *Under review in Journal of Cell Biology*.
 
-  - 2018  
     A. S. Mohan, K. M. Dean, S. Y. Kasitinon, T. Isogai, V. S. Murali,
     S. J. Han, P. Roudot, A. Groisman, E. Welf, and G. Danuser.
     **Hyperactive Rac1 Drives MAPK-Independent Proliferation in Melanoma
     by Assembly of a Mechanosensitive Dendritic Actin Network.**
     BioRxiv. *Under revision*.
 
-  - 2018  
     S. Manandhar, P. Bouthemy, E. Welf, P. Roudot, and C. Kervrann. **A
     Sparse-to-Dense Method for 3D Optical Flow Estimation in 3D
     Light-Microscopy Image Sequences.** Proc. IEEE Int. Symp. on
@@ -119,7 +113,6 @@
     Track Heterogeneous Particle Motions in Dense Environments.** IEEE
     Transactions on Image Processing.
 
-  - 2017  
     K. M. Dean, P. Roudot, E. S. Welf, T. Pohlkamp, G. Garrelts, J.
     Herz, and R. Fiolka. **Imaging Subcellular Dynamics with Fast and
     Light-Efficient Volumetrically Parallelized Microscopy.** Optica.
@@ -135,7 +128,6 @@
     **Deconvolution-Free Subcellular Imaging with Axially Swept Light
     Sheet Microscopy.** Biophysical Journal.
 
-  - 2015  
     P. Roudot, C. Kervrann, C. M. Blouin, and F. Waharte. **Lifetime
     Estimation of Moving Subcellular Objects in Frequency-Domain
     Fluorescence Lifetime Imaging Microscopy.** Journal of the Optical
@@ -146,7 +138,6 @@
     Processes Analysis in Quantitative Fluorescence Microscopy.**
     Thesis, University of Rennes 1.
 
-  - 2014  
     C. Kervrann, P. Roudot, and F. Waharte. **Approximate Bayesian
     Computation, Stochastic Algorithms and Non-Local Means for Complex
     Noise Models.** In IEEE International Conference on Image Processing
@@ -162,7 +153,6 @@
     Olivo-Marin, and E. Meijering, **An Objective Comparison of Particle
     Tracking Methods** Nature Methods, 2013.
 
-  - 2013  
     P. Roudot, C. Kervrann, J. Boulanger, F. Waharte. **Noise modeling
     for intensified camera in fluorescence imaging: application to image
     denoising**. Proc. IEEE Int. Symp. on Biomedical Imaging (ISBI’13),
@@ -174,7 +164,6 @@
     microscopy**. Proc. IEEE Int. Conf. on Image Processing (ICIP’12),
     Orlando, Florida, October 2012.
 
-  - 2012  
     P. Roudot, C. Kervrann, F. Waharte. **Lifetime estimation of moving
     vesicles in frequency-domain fluorescence lifetime imaging
     microscopy**. Proc. IEEE Int. Symp. on Biomedical Imaging (ISBI’12),
