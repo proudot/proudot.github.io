@@ -1,20 +1,3 @@
-# Research experience
-
-  - 2014 - present  
-    Human Frontier Postdoctoral Fellow at **UT Southwestern Medical Center (TX, U.S.A.)** advised by **Pr Gaudenz Danuser**.
-    *Unsupervised discovery of intracellular processes through quantitative 3D microscopy.*
-
-  - 2014  
-    Visiting student at **Institut Curie (France)**  hosted by **Pr. Jean Salamero**.  
-    *FRET efficiency analysis on dynamical caveolin structure in Frequency domain FLIM.*
-
-  - 2013  Visiting student at **Harvard Medical School (MA, U.S.A.)** hosted by **Pr. Gaudenz Danuser**.  
-    *Heterogeneous motion estimation of multiple particles in dense condition.*
-
-  - 2010 - 2014   Ph.D. student at **Inria Rennes (France)** advised by **Pr. Charles Kervrann** (Inria) and **Dr. François Waharte** (Institut Curie).
-    *Lifetime estimation of moving vesicles in frequency-domain
-    fluorescence lifetime imaging.*
-    
 # Selected Work & Short Descriptions
 
   - 2019  
@@ -68,6 +51,23 @@
     molecules in fixed cells. We designed a joint estimator of
     fluorescence lifetime, structural motion and microscope parameter to
     apply this technique to non-invasive live cell experiments.*
+
+# Research experience
+
+  - 2014 - present  
+    Human Frontier Postdoctoral Fellow at **UT Southwestern Medical Center (TX, U.S.A.)** advised by **Pr Gaudenz Danuser**.
+    *Unsupervised discovery of intracellular processes through quantitative 3D microscopy.*
+
+  - 2014  
+    Visiting student at **Institut Curie (France)**  hosted by **Pr. Jean Salamero**.  
+    *FRET efficiency analysis on dynamical caveolin structure in Frequency domain FLIM.*
+
+  - 2013  Visiting student at **Harvard Medical School (MA, U.S.A.)** hosted by **Pr. Gaudenz Danuser**.  
+    *Heterogeneous motion estimation of multiple particles in dense condition.*
+
+  - 2010 - 2014   Ph.D. student at **Inria Rennes (France)** advised by **Pr. Charles Kervrann** (Inria) and **Dr. François Waharte** (Institut Curie).
+    *Lifetime estimation of moving vesicles in frequency-domain
+    fluorescence lifetime imaging.*
     
 # Complete List of Peer-Reviewed Publications & Patents
 
@@ -141,7 +141,7 @@
     Fluorescence Lifetime Imaging Microscopy.** Journal of the Optical
     Society of America A.
     
-    - 2014  
+  - 2014  
     P. Roudot **Image Processing Methods for Dynamical Intracellular
     Processes Analysis in Quantitative Fluorescence Microscopy.**
     Thesis, University of Rennes 1.
