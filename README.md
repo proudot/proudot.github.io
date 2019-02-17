@@ -32,7 +32,7 @@
     P. Roudot, L. Ding, K. Jaqaman, C. Kervrann, and G. Danuser.
     **Piecewise-Stationary Motion Modeling and Iterative Smoothing to
     Track Heterogeneous Particle Motions in Dense Environments.** IEEE
-    Transactions on Image Processing.  
+    Transactions on Image Processing.  [PDF](/assets/pdf/proudot-pmms.pdf)
     *The study of dynamic processes is challenged by the limited
     temporal sampling of fluorescence microscopy. Chemically triggered
     motions often result in the imaging of unpredictably large
