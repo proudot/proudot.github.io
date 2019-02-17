@@ -19,7 +19,7 @@
     A. F. David, P. Roudot, W. R. Legant, E. Betzig, G. Danuser, and D.
     W. Gerlich. **Augmin-Mediated Amplification of Long-Lived Spindle
     Microtubules Directs plus-Ends towards Kinetochores.** *Under review
-    in Journal of Cell Biology*.  
+    in Journal of Cell Biology*.   [PDF](/assets/pdf/David-etal-manuscript.pdf)
     *In this work, we apply the u-track 3D framework to interrogate
     mitosis robustness with three-dimensional Lattice Light-sheet
     microscopy. The unsupervised estimation of multiple dynamic region
@@ -44,7 +44,7 @@
     P. Roudot, C. Kervrann, C. M. Blouin, and F. Waharte. **Lifetime
     Estimation of Moving Subcellular Objects in Frequency-Domain
     Fluorescence Lifetime Imaging Microscopy.** Journal of the Optical
-    Society of America A.  
+    Society of America A.   [PDF](/assets/pdf/FDFLIMMOTION-2015.pdf)
     *Nanosecond-scale fluorescence decay is a powerful metric for the
     transfer of energy and interaction between fluorescently-labeled
     molecules in fixed cells. We designed a joint estimator of
