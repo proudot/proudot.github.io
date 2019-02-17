@@ -28,13 +28,6 @@
     augmin-mediated, non-centrosomal, nucleation provide a structurally
     induced mechanism for fast and error-free chromosome segregation.*
 
-  - 2016  
-    P. Roudot\*, K. M. Dean\*, C. R. Reis, E. S. Welf, M. Mettlen, and
-    R. Fiolka. **Diagonally Scanned Light-Sheet Microscopy for Fast
-    Volumetric Imaging of Adherent Cells.** Biophysical Journal. \*
-    denotes equal contribution.  [PDF](/assets/pdf/diaSLM.pdf)
-    *How to define "fast" ? 
-    In this paper we propose a new light-sheet microscope design reaching 4Hz volumetric frequency. We prove through mathematic modeling , experimental measures and simulations that this frequency is sufficient to measure speed up to 4 micron/s in the diffusive case and 8 micron/s in a directed case. We also show that 3Hz is enough for the accuracy at the membrane, but that 4Hz must be reached to measuer accurate dynamics in the area the golgy apparatus. This is one way we can define "fast" in light-sheet microscopy.* 
   - 2017  
     P. Roudot, L. Ding, K. Jaqaman, C. Kervrann, and G. Danuser.
     **Piecewise-Stationary Motion Modeling and Iterative Smoothing to
@@ -46,6 +39,16 @@
     displacements. We designed an efficient stochastic smoothing
     algorithm using past and future time-point to recover fast
     transitions that can not be predicted by conventional approaches.*
+    
+    
+  - 2016  
+    P. Roudot\*, K. M. Dean\*, C. R. Reis, E. S. Welf, M. Mettlen, and
+    R. Fiolka. **Diagonally Scanned Light-Sheet Microscopy for Fast
+    Volumetric Imaging of Adherent Cells.** Biophysical Journal. \*
+    denotes equal contribution.  [PDF](/assets/pdf/diaSLM.pdf)
+    *How to define "fast" ? 
+    In this paper we propose a new light-sheet microscope design reaching 4Hz volumetric frequency. We prove through mathematic modeling , experimental measures and simulations that this frequency is sufficient to measure speed up to 4 micron/s in the diffusive case and 8 micron/s in a directed case. We also show that 3Hz is enough for the accuracy at the membrane, but that 4Hz must be reached to measuer accurate dynamics in the area the golgy apparatus. This is one way we can define "fast" in light-sheet microscopy.* 
+    
 
   - 2015  
     P. Roudot, C. Kervrann, C. M. Blouin, and F. Waharte. **Lifetime
