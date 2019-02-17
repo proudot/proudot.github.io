@@ -20,6 +20,7 @@
     W. Gerlich. **Augmin-Mediated Amplification of Long-Lived Spindle
     Microtubules Directs plus-Ends towards Kinetochores.** *Under review
     in Journal of Cell Biology*.   [PDF](/assets/pdf/David-etal-manuscript.pdf)
+    
     *In this work, we apply the u-track 3D framework to interrogate
     mitosis robustness with three-dimensional Lattice Light-sheet
     microscopy. The unsupervised estimation of multiple dynamic region
@@ -33,6 +34,7 @@
     **Piecewise-Stationary Motion Modeling and Iterative Smoothing to
     Track Heterogeneous Particle Motions in Dense Environments.** IEEE
     Transactions on Image Processing.  [PDF](/assets/pdf/proudot-pmms.pdf)
+    
     *The study of dynamic processes is challenged by the limited
     temporal sampling of fluorescence microscopy. Chemically triggered
     motions often result in the imaging of unpredictably large
@@ -46,6 +48,7 @@
     R. Fiolka. **Diagonally Scanned Light-Sheet Microscopy for Fast
     Volumetric Imaging of Adherent Cells.** Biophysical Journal. \*
     denotes equal contribution.  [PDF](/assets/pdf/diaSLM.pdf)
+    
     *How to define "fast" ? 
     In this paper we propose a new light-sheet microscope design reaching 4Hz volumetric frequency. We prove through mathematic modeling , experimental measures and simulations that this frequency is sufficient to measure speed up to 4 micron/s in the diffusive case and 8 micron/s in a directed case. We also show that 3Hz is enough for the accuracy at the membrane, but that 4Hz must be reached to measuer accurate dynamics in the area the golgy apparatus. This is one way we can define "fast" in light-sheet microscopy.* 
     
@@ -55,6 +58,7 @@
     Estimation of Moving Subcellular Objects in Frequency-Domain
     Fluorescence Lifetime Imaging Microscopy.** Journal of the Optical
     Society of America A.   [PDF](/assets/pdf/FDFLIMMOTION-2015.pdf)
+    
     *Nanosecond-scale fluorescence decay is a powerful metric for the
     transfer of energy and interaction between fluorescently-labeled
     molecules in fixed cells. We designed a joint estimator of
