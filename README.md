@@ -28,6 +28,12 @@
     augmin-mediated, non-centrosomal, nucleation provide a structurally
     induced mechanism for fast and error-free chromosome segregation.*
 
+  - 2016  
+    P. Roudot\*, K. M. Dean\*, C. R. Reis, E. S. Welf, M. Mettlen, and
+    R. Fiolka. **Diagonally Scanned Light-Sheet Microscopy for Fast
+    Volumetric Imaging of Adherent Cells.** Biophysical Journal. \*
+    denotes equal contribution.  [PDF](/assets/pdf/diaSLM.pdf)
+    
   - 2017  
     P. Roudot, L. Ding, K. Jaqaman, C. Kervrann, and G. Danuser.
     **Piecewise-Stationary Motion Modeling and Iterative Smoothing to
