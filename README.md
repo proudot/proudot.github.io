@@ -72,6 +72,7 @@
     *FRET efficiency analysis on dynamical caveolin structure in Frequency domain FLIM.*
 
   - 2012/11 - 2013/02
+  
     Visiting student at **Harvard Medical School (MA, U.S.A.)** hosted by **Pr. Gaudenz Danuser**.  
     *Heterogeneous motion estimation of multiple particles in dense condition.*
 
