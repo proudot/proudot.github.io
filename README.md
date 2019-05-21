@@ -17,9 +17,9 @@
     interactions such as chromosome capture and 3D adhesion mechanisms.*
 
     A. F. David, P. Roudot, W. R. Legant, E. Betzig, G. Danuser, and D.
-    W. Gerlich. **Augmin-Mediated Amplification of Long-Lived Spindle
-    Microtubules Directs plus-Ends towards Kinetochores.** *Under review
-    in Journal of Cell Biology*.   [PDF](/assets/pdf/David_etal_manuscript.pdf)
+    W. Gerlich. **. Augmin accumulation on long-lived microtubules drives 
+    amplification and kinetochore-directed growth.** *Journal of Cell Biology*.   
+    [PDF](/assets/pdf/David_etal_manuscript.pdf)
     *In this work, we apply the u-track 3D framework to interrogate
     mitosis robustness with three-dimensional Lattice Light-sheet
     microscopy. The unsupervised estimation of multiple dynamic region
